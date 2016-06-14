@@ -1,0 +1,12 @@
+<%@ page contentType="text/html;charset=UTF-8" %> 
+<br>
+<CENTER><Font size=5><P>ÊéÏãÕ«ÊÛÊéÍøÕ¾</Font></CENTER>
+<br>
+<table  cellSpacing="1" cellPadding="1" width="560" align="center" border="0" >
+   <tr valign="bottom">
+   <td><A href="inputRegister.jsp"><font size=4>×¢²á </font></A></td>
+   <td><A href="login.jsp"><font size=4>µÇÂ¼</font></A></td>
+   
+  </tr>
+  </Font>
+</table>

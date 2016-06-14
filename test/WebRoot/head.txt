@@ -1,0 +1,15 @@
+<%@ page contentType="text/html;charset=UTF-8" %> 
+<CENTER><Font size=5><P>书香斋售书网站</Font></CENTER>
+<br>
+<table  cellSpacing="1" cellPadding="1" width="560" align="center" border="0" >
+   <tr valign="bottom">
+
+   <td><A href="upload.jsp"><font size=2>浏览书籍</font></A></td>
+   <td><A href="Search.jsp"><font size=2>查询书籍</font></A></td>
+   <td><A href="shopcar.jsp"><font size=2>查看购物车</font></A></td>
+   <td><A href="order.jsp"><font size=2>查看订单</font></A></td>
+   <td><A href="ExitLogin.jsp"><font size=2>退出登录</font></A></td>
+   <td><A href="menu.jsp"><font size=2>返回主页</font></A></td>
+  </tr>
+  </Font>
+</table>
